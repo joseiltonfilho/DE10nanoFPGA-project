@@ -1,5 +1,9 @@
 # DE10nanoFPGA-project
-Test
+The software of this project was created following the steps below:
+
+
+## Provisioning DE10-Nano
+Follow the steps given in [terasic/InnovateFPGA2021](https://github.com/terasic/InnovateFPGA2021/blob/main/docs/PaaS-Provision.md)
 
 ```bash
 cd ~ && \
